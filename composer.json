@@ -22,7 +22,6 @@
         "symfony/framework-bundle": "~2.3|~3.0",
         "symfony/finder":           "~2.3|~3.0",
         "symfony/validator":        "~2.3|~3.0",
-        "knplabs/knp-snappy":       "~0.1"
     },
 
     "autoload": {
